@@ -10,7 +10,6 @@ class RvsController < ApplicationController
     end
 
 
-
     private
     
     def find_rv
